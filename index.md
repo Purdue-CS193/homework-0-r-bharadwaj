@@ -38,6 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 # Rohan's first CS-193 Homework
-## My favorite things abuot CS-193
+## My favorite things about CS-193
 - my classmates
 - my TAs
